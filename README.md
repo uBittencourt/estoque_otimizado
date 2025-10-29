@@ -27,7 +27,7 @@ O script é escrito em Python puro e só requer a biblioteca padrão `datetime` 
     ```
 2.  **Execute o Script Python:**
     ```bash
-    python estoque_otimizado.py
+    python main.py
     ```
 3.  O programa iniciará um *loop* interativo no terminal, permitindo que o usuário escolha as funcionalidades.
 
