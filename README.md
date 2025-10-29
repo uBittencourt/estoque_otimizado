@@ -23,7 +23,7 @@ O script é escrito em Python puro e só requer a biblioteca padrão `datetime` 
 1.  **Clone o Repositório:**
     ```bash
     git clone https://github.com/uBittencourt/estoque_otimizado.git
-    cd <pasta de download>
+    cd estoque_otimizado
     ```
 2.  **Execute o Script Python:**
     ```bash

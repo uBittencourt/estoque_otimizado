@@ -263,7 +263,7 @@ def exibir_otimizacao(orcamento, max_beneficio, itens_comprados):
     print(30*'=')
 
 
-# MENU DA VERSÃO RECURSIVA - CORRIGIDO (Chama apenas funções recursivas)
+# MENU DA VERSÃO RECURSIVA
 def menu_recursivo():
     print(5*'-=', "OTIMIZAÇÃO DE ESTOQUE: MÉTODO RECURSIVO", 5*'-=')
     
